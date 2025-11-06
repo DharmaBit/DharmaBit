@@ -1,4 +1,4 @@
-### Welcome to DharmaBit 👋
+## Welcome to DharmaBit 👋
 
 ![Welcome GIF](https://media.giphy.com/media/FcDeFtVLMx0V8gHCPa/giphy.gif)
 
