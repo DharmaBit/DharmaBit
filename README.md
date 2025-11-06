@@ -1,9 +1,6 @@
 <div align="center">
-
 ## Welcome to DharmaBit 👋
-
 </div>
-
 
 ![Welcome GIF](https://media.giphy.com/media/FcDeFtVLMx0V8gHCPa/giphy.gif)
 
